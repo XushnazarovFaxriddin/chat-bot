@@ -1,0 +1,8 @@
+{
+    "bot": {
+        "token": "YOUR_BOT_TOKEN",
+        "admin_username": "YOUR_USERNAME",
+        "group_id": "REPLY_GROUP_ID",
+        "info_group_id": "Murojaatlarga javob qaytarish uchun mo'ljallangan guruh id raqami!"
+    }
+}
